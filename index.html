@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>_Rafi's Books — Letterboxd Style Book Collection</title>
+  <meta name="description" content="Personal Book Collection styled like Letterboxd featuring 30 landmark titles." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Top Letterboxd Navbar -->
+  <header class="lb-navbar">
+    <div class="lb-nav-container">
+      <a href="#" class="lb-logo-link">
+        <div class="lb-logo-dots">
+          <span class="dot-green"></span>
+          <span class="dot-orange"></span>
+          <span class="dot-blue"></span>
+        </div>
+        <span class="lb-logo-text">Letterbooks</span>
+      </a>
+
+      <ul class="lb-nav-menu">
+        <li><a href="#" class="lb-nav-link active">BOOKS</a></li>
+        <li><a href="#" class="lb-nav-link">LISTS</a></li>
+        <li><a href="#" class="lb-nav-link">MEMBERS</a></li>
+        <li><a href="#" class="lb-nav-link">JOURNAL</a></li>
+      </ul>
+
+      <div class="lb-nav-right">
+        <button class="lb-log-btn" id="logBookBtn">+ LOG BOOK</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- User Profile Sub-Nav Bar -->
+  <nav class="lb-profile-subnav">
+    <div class="lb-subnav-container">
+      <div class="lb-user-badge">
+        <div class="lb-avatar">R</div>
+        <span class="lb-username">_Rafi</span>
+      </div>
+
+      <ul class="lb-subnav-tabs">
+        <li class="lb-tab-item"><a href="#" class="lb-tab-link">Activity</a></li>
+        <li class="lb-tab-item"><a href="#" class="lb-tab-link active">Books</a></li>
+        <li class="lb-tab-item"><a href="#" class="lb-tab-link">Diary</a></li>
+        <li class="lb-tab-item"><a href="#" class="lb-tab-link">Reviews</a></li>
+        <li class="lb-tab-item"><a href="#" class="lb-tab-link">Reading List</a></li>
+        <li class="lb-tab-item"><a href="#" class="lb-tab-link">Lists</a></li>
+        <li class="lb-tab-item"><a href="#" class="lb-tab-link">Likes</a></li>
+        <li class="lb-tab-item"><a href="#" class="lb-tab-link">Tags</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Main Catalog Area -->
+  <main class="lb-main-container">
+    <!-- Filter Toolbar -->
+    <div class="lb-toolbar">
+      <div class="lb-toolbar-title" id="readCountLabel">
+        READ (30 BOOKS)
+      </div>
+
+      <div class="lb-toolbar-filters">
+        <div class="lb-filter-group">
+          <input type="text" id="lbSearchInput" class="lb-search-input" placeholder="Search title or author..." />
+        </div>
+
+        <div class="lb-filter-group">
+          <span class="lb-filter-label">Category:</span>
+          <select id="genreSelect" class="lb-filter-select">
+            <option value="All">GENRE ∨</option>
+            <option value="Personal Transformation & Self-Discipline">Personal Transformation</option>
+            <option value="Wealth & Financial Mindset">Wealth & Finance</option>
+            <option value="Business & Entrepreneurship">Business</option>
+            <option value="Startup-Specific Strategies">Startups</option>
+            <option value="Psychology & Decision-Making">Psychology</option>
+            <option value="Negotiation & Power">Negotiation & Power</option>
+            <option value="Biographies & Memoirs">Biographies</option>
+            <option value="Creativity & Unconventional Paths">Creativity</option>
+          </select>
+        </div>
+
+        <div class="lb-filter-group">
+          <span class="lb-filter-label">Sort:</span>
+          <select id="sortSelect" class="lb-filter-select">
+            <option value="rating">RATING ∨</option>
+            <option value="title">TITLE A-Z ∨</option>
+            <option value="category">CATEGORY ∨</option>
+            <option value="year">YEAR ∨</option>
+          </select>
+        </div>
+
+        <div class="lb-filter-group">
+          <select id="viewSelect" class="lb-filter-select">
+            <option value="grid">GRID VIEW ∨</option>
+            <option value="list">LIST VIEW ∨</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Letterboxd Dense Poster Grid Container -->
+    <div class="lb-poster-grid" id="posterGrid">
+      <!-- Injected dynamically via app.js -->
+    </div>
+  </main>
+
+  <!-- Letterboxd Style Modal -->
+  <div class="lb-modal-overlay" id="lbModalOverlay">
+    <div class="lb-modal-card">
+      <button class="lb-modal-close" id="lbModalClose">×</button>
+      <div class="lb-modal-left">
+        <img class="lb-modal-poster" id="modalCover" src="" alt="Cover" />
+      </div>
+      <div class="lb-modal-right">
+        <h2 class="lb-modal-title" id="modalTitle">Book Title</h2>
+        <div class="lb-modal-meta" id="modalMeta">by Author • Category</div>
+        <div class="lb-modal-quote" id="modalQuote">"Quote..."</div>
+        
+        <div style="margin-bottom: 1.5rem; color: var(--lb-green); font-weight: 800; font-size: 1.1rem;" id="modalStars">
+          ★★★★★ 4.8
+        </div>
+
+        <div class="lb-modal-actions">
+          <button class="lb-action-btn" id="favActionBtn">♥ Like Book</button>
+          <button class="lb-action-btn" onclick="alert('Logged in your library!')">✓ Logged</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="lb-footer">
+    Letterbooks — Styled like Letterboxd for Personal Book Collections. Created on August 2, 2026.
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
