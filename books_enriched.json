@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "Atomic Habits",
     "author": "James Clear",
     "quote": "Build good habits, break bad ones.",
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Mindset & Personal Growth",
     "title": "Can't Hurt Me",
     "author": "David Goggins",
     "quote": "Master your mind and defy the odds.",
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Mindset & Personal Growth",
     "title": "12 Rules for Life",
     "author": "Jordan Peterson",
     "quote": "An antidote to chaos.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "Deep Work",
     "author": "Cal Newport",
     "quote": "Rules for focused success.",
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Mindset & Personal Growth",
     "title": "The Monk Who Sold His Ferrari",
     "author": "Robin Sharma",
     "quote": "Spiritual wisdom for purposeful living.",
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "The Productive Muslim",
     "author": "Mohammed Faris",
     "quote": "Faith-centered productivity.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "category": "Wealth & Financial Mindset",
+    "category": "Wealth & Personal Finance",
     "title": "Rich Dad Poor Dad",
     "author": "Robert Kiyosaki",
     "quote": "Financial education vs. the rat race.",
@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "category": "Wealth & Financial Mindset",
+    "category": "Wealth & Personal Finance",
     "title": "The Psychology of Money",
     "author": "Morgan Housel",
     "quote": "Timeless lessons on wealth, greed, and happiness.",
@@ -97,7 +97,7 @@
   },
   {
     "id": 9,
-    "category": "Wealth & Financial Mindset",
+    "category": "Wealth & Personal Finance",
     "title": "Think and Grow Rich",
     "author": "Napoleon Hill",
     "quote": "The classic blueprint for success.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 10,
-    "category": "Wealth & Financial Mindset",
+    "category": "Wealth & Personal Finance",
     "title": "The Richest Man in Babylon",
     "author": "George Clason",
     "quote": "Ancient secrets to personal wealth.",
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "category": "Wealth & Financial Mindset",
+    "category": "Wealth & Personal Finance",
     "title": "The Millionaire Fastlane",
     "author": "MJ DeMarco",
     "quote": "Wealth acceleration, not slow savings.",
@@ -133,7 +133,7 @@
   },
   {
     "id": 12,
-    "category": "Wealth & Financial Mindset",
+    "category": "Wealth & Personal Finance",
     "title": "From Zero to Millionaire",
     "author": "Nicolas Cole",
     "quote": "Direct wealth-building guide.",
@@ -181,7 +181,7 @@
   },
   {
     "id": 16,
-    "category": "Startup-Specific Strategies",
+    "category": "Business & Entrepreneurship",
     "title": "The Lean Startup",
     "author": "Eric Ries",
     "quote": "Build-measure-learn loop for startups.",
@@ -193,7 +193,7 @@
   },
   {
     "id": 17,
-    "category": "Startup-Specific Strategies",
+    "category": "Business & Entrepreneurship",
     "title": "Hooked",
     "author": "Nir Eyal",
     "quote": "How to build habit-forming products.",
@@ -205,7 +205,7 @@
   },
   {
     "id": 18,
-    "category": "Startup-Specific Strategies",
+    "category": "Business & Entrepreneurship",
     "title": "The Hard Thing About Hard Things",
     "author": "Ben Horowitz",
     "quote": "Raw startup leadership advice.",
@@ -217,7 +217,7 @@
   },
   {
     "id": 19,
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "title": "How to Win Friends and Influence People",
     "author": "Dale Carnegie",
     "quote": "Timeless social skills.",
@@ -229,7 +229,7 @@
   },
   {
     "id": 20,
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "title": "The Art of Thinking Clearly",
     "author": "Rolf Dobelli",
     "quote": "Cognitive biases decoded.",
@@ -241,7 +241,7 @@
   },
   {
     "id": 21,
-    "category": "Psychology & Decision-Making",
+    "category": "Creativity & Innovation",
     "title": "Lateral Thinking",
     "author": "Edward de Bono",
     "quote": "Creativity as a learnable skill.",
@@ -253,7 +253,7 @@
   },
   {
     "id": 22,
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "title": "Tricks of the Mind",
     "author": "Derren Brown",
     "quote": "Psychology of deception & perception.",
@@ -265,7 +265,7 @@
   },
   {
     "id": 23,
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "title": "Skin in the Game",
     "author": "Nassim Taleb",
     "quote": "Risk, accountability, and asymmetric knowledge.",
@@ -277,7 +277,7 @@
   },
   {
     "id": 24,
-    "category": "Negotiation & Power",
+    "category": "Power, Negotiation & Influence",
     "title": "Never Split the Difference",
     "author": "Chris Voss",
     "quote": "FBI hostage negotiator tactics.",
@@ -289,7 +289,7 @@
   },
   {
     "id": 25,
-    "category": "Negotiation & Power",
+    "category": "Power, Negotiation & Influence",
     "title": "48 Laws of Power",
     "author": "Robert Greene",
     "quote": "The unvarnished truth about power.",
@@ -325,7 +325,7 @@
   },
   {
     "id": 28,
-    "category": "Creativity & Unconventional Paths",
+    "category": "Creativity & Innovation",
     "title": "Steal Like an Artist",
     "author": "Austin Kleon",
     "quote": "How to embrace influence creatively.",
@@ -349,7 +349,7 @@
   },
   {
     "id": 30,
-    "category": "Negotiation & Power",
+    "category": "Power, Negotiation & Influence",
     "title": "The Laws of Human Nature",
     "author": "Robert Greene",
     "quote": "Decode motives, ego, and human behavioral dynamics.",
@@ -361,7 +361,7 @@
   },
   {
     "id": 31,
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "title": "Thinking, Fast and Slow",
     "author": "Daniel Kahneman",
     "quote": "The definitive masterwork on cognitive biases.",
@@ -385,7 +385,7 @@
   },
   {
     "id": 33,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "The 7 Habits of Highly Effective People",
     "author": "Stephen R. Covey",
     "quote": "Begin with the end in mind and focus on what you can control.",
@@ -397,7 +397,7 @@
   },
   {
     "id": 34,
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "title": "Sapiens: A Brief History of Humankind",
     "author": "Yuval Noah Harari",
     "quote": "You could never convince a monkey to give you a banana by promising him limitness bananas after death.",
@@ -421,7 +421,7 @@
   },
   {
     "id": 36,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "Eat That Frog!",
     "author": "Brian Tracy",
     "quote": "If it's your job to eat a frog, it's best to do it first thing in the morning.",
@@ -433,7 +433,7 @@
   },
   {
     "id": 37,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "Building a Second Brain",
     "author": "Tiago Forte",
     "quote": "A proven method to organize your digital life and unlock your creative potential.",
@@ -445,7 +445,7 @@
   },
   {
     "id": 38,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "Time Management",
     "author": "Brian Tracy",
     "quote": "Your ability to manage your time will determine your success in life as much as any other factor.",
@@ -457,7 +457,7 @@
   },
   {
     "id": 39,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "Feel-Good Productivity",
     "author": "Ali Abdaal",
     "quote": "How to do more of what matters to you.",
@@ -469,7 +469,7 @@
   },
   {
     "id": 40,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "title": "The 5 AM Club",
     "author": "Robin Sharma",
     "quote": "Own your morning. Elevate your life.",
@@ -481,7 +481,7 @@
   },
   {
     "id": 41,
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Mindset & Personal Growth",
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "quote": "And, when you want something, all the universe conspires in helping you to achieve it.",
@@ -494,7 +494,7 @@
   {
     "title": "How to Talk to Anyone",
     "author": "Leil Lowndes",
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "quote": "There are two kinds of people in this life: Those who walk into a room and say, 'Well, here I am!' And those who walk in and say, 'Ah, there you are.'",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9780071418584-L.jpg?default=false",
     "rating": 4.5,
@@ -518,7 +518,7 @@
   {
     "title": "Mindset",
     "author": "Carol S. Dweck",
-    "category": "Psychology & Decision-Making",
+    "category": "Mindset & Personal Growth",
     "quote": "The view you adopt for yourself profoundly affects the way you lead your life.",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9780345472328-L.jpg?default=false",
     "rating": 4.6,
@@ -530,7 +530,7 @@
   {
     "title": "The Subtle Art of Not Giving a F*ck",
     "author": "Mark Manson",
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Mindset & Personal Growth",
     "quote": "You and everyone you know are going to be dead soon.",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg?default=false",
     "rating": 4.6,
@@ -542,9 +542,9 @@
   {
     "title": "Man's Search for Meaning",
     "author": "Viktor E. Frankl",
-    "category": "Biographies & Memoirs",
+    "category": "Mindset & Personal Growth",
     "quote": "Those who have a 'why' to live, can bear with almost any 'how'.",
-    "cover_url": "https://covers.openlibrary.org/b/id/11203708-L.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg?default=false",
     "rating": 4.7,
     "publishedYear": "1946",
     "pages": 165,
@@ -566,7 +566,7 @@
   {
     "title": "Influence: The Psychology of Persuasion",
     "author": "Robert B. Cialdini",
-    "category": "Psychology & Decision-Making",
+    "category": "Power, Negotiation & Influence",
     "quote": "A well-known principle of human behavior says that when we ask someone to do us a favor we will be more successful if we provide a reason.",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9780061241895-L.jpg?default=false",
     "rating": 4.7,
@@ -578,7 +578,7 @@
   {
     "title": "Ikigai",
     "author": "Héctor García and Francesc Miralles",
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Mindset & Personal Growth",
     "quote": "There is a passion inside you, a unique talent that gives meaning to your days.",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9780143130727-L.jpg?default=false",
     "rating": 4.6,
@@ -590,7 +590,7 @@
   {
     "title": "Meditations",
     "author": "Marcus Aurelius",
-    "category": "Psychology & Decision-Making",
+    "category": "Mindset & Personal Growth",
     "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9780812968255-L.jpg?default=false",
     "rating": 4.7,
@@ -602,7 +602,7 @@
   {
     "title": "The Almanack of Naval Ravikant",
     "author": "Eric Jorgenson",
-    "category": "Wealth & Financial Mindset",
+    "category": "Wealth & Personal Finance",
     "quote": "If you want to be wealthy, spend your time earning, learning, or building.",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9781544514215-L.jpg?default=false",
     "rating": 4.8,
@@ -614,7 +614,7 @@
   {
     "title": "The 12 Week Year",
     "author": "Brian P. Moran",
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Productivity & Habits",
     "quote": "The barrier to success is not lack of knowledge, but lack of execution.",
     "cover_url": "https://covers.openlibrary.org/b/id/14632659-L.jpg",
     "rating": 4.6,
@@ -626,7 +626,7 @@
   {
     "title": "The Courage to Be Disliked",
     "author": "Ichiro Kishimi and Fumitake Koga",
-    "category": "Psychology & Decision-Making",
+    "category": "Mindset & Personal Growth",
     "quote": "The courage to be happy also includes the courage to be disliked.",
     "cover_url": "https://covers.openlibrary.org/b/id/10930013-L.jpg",
     "rating": 4.7,
@@ -637,7 +637,7 @@
   {
     "title": "Pitch Anything",
     "author": "Oren Klaff",
-    "category": "Negotiation & Power",
+    "category": "Power, Negotiation & Influence",
     "quote": "An audience wants to hear a good story, not a long-winded technical presentation.",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9780071752855-L.jpg",
     "rating": 4.6,
@@ -659,7 +659,7 @@
   {
     "title": "Show Your Work!",
     "author": "Austin Kleon",
-    "category": "Creativity & Unconventional Paths",
+    "category": "Creativity & Innovation",
     "quote": "Share something small every day, and eventually you'll find your people.",
     "cover_url": "https://covers.openlibrary.org/b/id/7284188-L.jpg",
     "rating": 4.7,
@@ -670,7 +670,7 @@
   {
     "title": "The Art of Seduction",
     "author": "Robert Greene",
-    "category": "Negotiation & Power",
+    "category": "Power, Negotiation & Influence",
     "quote": "Seduction is a game of psychology, not beauty.",
     "cover_url": "https://covers.openlibrary.org/b/isbn/9780142001196-L.jpg",
     "rating": 4.5,
@@ -681,7 +681,7 @@
   {
     "title": "Give and Take",
     "author": "Adam Grant",
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "quote": "The most meaningful way to succeed is to help others succeed.",
     "cover_url": "https://covers.openlibrary.org/b/id/7391212-L.jpg",
     "rating": 4.6,
@@ -692,7 +692,7 @@
   {
     "title": "Surrounded by Idiots",
     "author": "Thomas Erikson",
-    "category": "Psychology & Decision-Making",
+    "category": "Psychology & Social Dynamics",
     "quote": "Human behavior is largely patterns. If you can understand the patterns, you can understand the people.",
     "cover_url": "https://covers.openlibrary.org/b/id/14847396-L.jpg",
     "rating": 4.6,
@@ -703,12 +703,60 @@
   {
     "title": "The Power of Now",
     "author": "Eckhart Tolle",
-    "category": "Personal Transformation & Self-Discipline",
+    "category": "Mindset & Personal Growth",
     "quote": "Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.",
     "cover_url": "https://covers.openlibrary.org/b/id/551262-L.jpg",
     "rating": 4.8,
     "publishedYear": "1997",
     "pages": 236,
     "id": 60
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "category": "Mindset & Personal Growth",
+    "quote": "People don't buy what you do; they buy why you do it.",
+    "cover_url": "https://covers.openlibrary.org/b/id/15213359-L.jpg",
+    "rating": 4.7,
+    "publishedYear": "2009",
+    "pages": 256,
+    "id": 61,
+    "isbn": "9781591846444"
+  },
+  {
+    "title": "Ego is the Enemy",
+    "author": "Ryan Holiday",
+    "category": "Mindset & Personal Growth",
+    "quote": "The ego we see most commonly goes by a more casual name: ambition. It's the voice whispering that more is better.",
+    "cover_url": "https://covers.openlibrary.org/b/id/14860492-L.jpg",
+    "rating": 4.7,
+    "publishedYear": "2016",
+    "pages": 226,
+    "id": 62,
+    "isbn": "9781591847816"
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "category": "Psychology & Social Dynamics",
+    "quote": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
+    "cover_url": "https://covers.openlibrary.org/b/id/7342494-L.jpg",
+    "rating": 4.7,
+    "publishedYear": "2008",
+    "pages": 309,
+    "id": 63,
+    "isbn": "9780316017930"
+  },
+  {
+    "title": "Surrounded by Psychopaths",
+    "author": "Thomas Erikson",
+    "category": "Psychology & Social Dynamics",
+    "quote": "Not all dangerous people carry weapons. Some carry charm.",
+    "cover_url": "https://covers.openlibrary.org/b/id/10716545-L.jpg",
+    "rating": 4.5,
+    "publishedYear": "2021",
+    "pages": 272,
+    "id": 64,
+    "isbn": "9781250816436"
   }
 ]

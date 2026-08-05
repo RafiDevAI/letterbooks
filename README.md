@@ -6,7 +6,7 @@
 
 Letterbooks is a modern, responsive, and visually stunning web application designed to catalog, display, and review a curated collection of landmark books. Inspired by the sleek, dark design language of **Letterboxd**, it displays books as rich covers (posters) with interactive overlays, detailed slide-in overlays, real-time search, category filters, multi-criteria sorting, grid/list view toggles, and persistent favorites.
 
-This project showcases 30 classic and highly-influential books spanning personal development, finance, business, psychology, and startup strategies.
+This project showcases 64 classic and highly-influential books spanning personal development, finance, business, psychology, and startup strategies.
 
 ---
 
@@ -54,7 +54,7 @@ BOOK/
 ├── index.html          # Core layout, HTML structure, navbar, subnav, and modal markup
 ├── styles.css          # Design system, CSS custom properties, grid/list systems, and animations
 ├── app.js              # State manager, event handlers, list renderers, and modal controllers (ES Module)
-├── data.js             # Local database containing the 30 book records (ES Module export)
+├── data.js             # Local database containing the 64 book records (ES Module export)
 ├── books_enriched.json # JSON representation of the catalog data
 ├── books_structured.txt# Structured list of categories and books
 ├── books_raw.txt       # Raw text dump of the books list
@@ -71,7 +71,7 @@ Book data is stored in [data.js](file:///c:/Users/ksa/Downloads/BOOK/data.js) an
 ```json
 {
   "id": 1,
-  "category": "Personal Transformation & Self-Discipline",
+  "category": "Mindset & Personal Growth",
   "title": "Atomic Habits",
   "author": "James Clear",
   "quote": "Build good habits, break bad ones.",
@@ -84,14 +84,14 @@ Book data is stored in [data.js](file:///c:/Users/ksa/Downloads/BOOK/data.js) an
 ```
 
 ### 📚 Catalog Categories Included
-*   `Personal Transformation & Self-Discipline`
-*   `Wealth & Financial Mindset`
+*   `Productivity & Habits`
+*   `Mindset & Personal Growth`
+*   `Psychology & Social Dynamics`
+*   `Wealth & Personal Finance`
 *   `Business & Entrepreneurship`
-*   `Startup-Specific Strategies`
-*   `Psychology & Decision-Making`
-*   `Negotiation & Power`
+*   `Power, Negotiation & Influence`
+*   `Creativity & Innovation`
 *   `Biographies & Memoirs`
-*   `Creativity & Unconventional Paths`
 
 ---
 
